@@ -1,10 +1,8 @@
 # JetTank
 
-## Print List:
+## New Print List (Updated 9/8/2021:
 _________________________________
 | Part Name:           |  Qty   |
 |----------------------|--------|
-| 1. TankPlate_3D      |   2    |
-| 2. Antenna_Holder    |   1    |
-| 3. Spacers           |   1    |
+| 1. mount             |   4    |
 _________________________________
